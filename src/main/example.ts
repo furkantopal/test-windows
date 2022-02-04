@@ -3,6 +3,3 @@ export class Example {
     return a + b;
   }
 }
-//test-windows
-//test2
-//test3
